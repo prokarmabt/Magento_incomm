@@ -1,0 +1,47 @@
+Magento designed training courses based on the role
+
+1) Developers
+    a) Unlimited on Demand Track ----------------------------------------------------> $1498
+    b) Magenta Enterprise Coud Edition  Setup ---------------------------------------> Free
+    c) MAGENTO 2 DEVELOPER BOOT CAMP ------------------------------------------------> $3595 -->In Person 32 hours / on Demand 6 to 8 hours (per unit)
+
+2) Merchants/Marketers
+    a) MANAGING YOUR MAGENTO 2 STORE (INSTRUCTOR-LED) --------------------------------> $1850 ---> 18 hours
+    b) MANAGING YOUR MAGENTO 2 STORE (ON-DEMAND) -------------------------------------> $375
+    c) UNLIMITED ON-DEMAND TRACK   ---------------------------------------------------> $1498
+    d) STEPPING UP SALES WITH MAGENTO PROMOTIONS AND DISCOUNTS (Magento 1.x)----------> $119
+    e) GROWING YOUR BUSINESS WITH SEO ON MAGENTO (Magento 1.x)------------------------> $119
+    f) Ecommerce with magento (Magento 1.x)-------------------------------------------> Free
+    g) MULTISITE PLANNING FOR YOUR MAGENTO STORES (Magento 1.x) ----------------------->$119
+    h) MERCHANT TRACK ----------------------------------------------------------------->$119
+    i) COMBINATION TRACK (All courses) ------------------------------------------------>$239
+
+3)Front End Developers
+  a) CORE PRINCIPLES FOR THEMING IN MAGENTO 2 (INSTRUCTOR-LED)  ---------------------> $1,850
+  b) UNLIMITED ON-DEMAND TRACK ------------------------------------------------------> $1,498
+  c) RESPONSIVE WEB DESIGN IN MAGENTO 2 ----------------------------------------------> Free
+  d) CORE PRINCIPLES FOR THEMING IN MAGENTO 2 (ON-DEMAND) ---------------------------> $375
+  e) CORE PRINCIPLES FOR THEMING IN MAGENTO -----------------------------------------> $925
+  f) FRONT END DEVELOPER CERTIFICATION ----------------------------------------------> $260
+  g) TECHNICAL TRACK (magento 1.x) ------------------------------------------------- > $159
+  h) COMBINATION TRACK (magento 1.x) ------------------------------------------------> $239
+
+4) System Administrators
+
+  a) PERFORMANCE AND SYSTEM ADMINISTRATION - magento 1.x (ON-DEMAND) ------------------> $159
+  b) TECHNICAL TRACK (magento 1.x) --------------------------------------------------- > $159
+  c) COMBINATION TRACK (magento 1.x) --------------------------------------------------> $239
+
+5)Business Analysyts
+
+  a) ECOMMERCE WITH MAGENTO ---------------------------------------------------------> Free
+  b) MANAGING YOUR MAGENTO 2 STORE (ON-DEMAND)---------------------------------------> $375
+  c) MANAGING YOUR MAGENTO 2 STORE (INSTRUCTOR-LED)----------------------------------> $1850
+  d) MANAGING YOUR MAGENTO STORE- Magenta 1.x ---------------------------------------> $1850
+  e) MAGENTO 2 BUSINESS ANALYST BUNDLE ----------------------------------------------> $1850
+  f) REQUIREMENTS DISCOVERY FOR SUCCESSFUL MAGENTO 2 IMPLEMENTATIONS ----------------->$1850
+  g) QUICKSTART TO MAGENTO BUSINESS INTELLIGENCE ------------------------------------->Free
+  h) MERCHANT TRACK (Magento 1.x) --------------------------------------------------->$119
+  i)COMBINATION TRACK (Magento 1.x) --------------------------------------------------> $239
+  j)MAGENTO CERTIFIED SOLUTION SPECIALIST --------------------------------------------> $260
+
